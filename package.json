@@ -1,0 +1,26 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "THIS IS AN IOT BASED PROJECT",
+  "main": "app.js",
+  "scripts": {
+    "test": "NODE APP.JS"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Apurboipe/SSS.git"
+  },
+  "keywords": [
+    "BOA"
+  ],
+  "author": "BOA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Apurboipe/SSS/issues"
+  },
+  "homepage": "https://github.com/Apurboipe/SSS#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0"
+  }
+}
